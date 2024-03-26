@@ -1,9 +1,12 @@
-# [Luana ] <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Mario_Hello_Big.gif" width="30px">
+<p align="center"><b> ᔕ Sobre mim ᔓ </b></p>
 
-Eu sou <strong>Luana</strong>, <strong>Faça uma breve apresentação aqui</strong> 👨🏻‍💻 
+<p align="left">
+  
+- ✹ Eu sou <strong>Luana Queiroz</strong>
 
-- 🚀 Atualmente estou aprendendo: <strong>Desenvolvimento de Sistemas</strong> 
-- 💬 Pergunte-me sobre: <strong>Seus hobbies</strong>
-- 📣 Nós podemos falar em: <strong>Seus Idiomas</strong>
+- ⛫ <strong>Sou estudante de Desenvolvimento de Sistemas no Senac Mediotec</strong>
+
+- ⇥ <strong>Estudando JavaScript e HTML</strong>
+
 
 ![VisitorCount](https://profile-counter.glitch.me/{luaqueirozz}/count.svg)
