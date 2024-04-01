@@ -2,7 +2,7 @@
 
 <p align="left">
   
-- ✹ Eu sou <strong>Luana Queiroz</strong>
+- ✹ Meu nome é <strong>Luana Queiroz</strong>
 
 - ⛫ <strong>Sou estudante de Desenvolvimento de Sistemas no Senac Mediotec</strong>
 
