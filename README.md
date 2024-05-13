@@ -1,4 +1,4 @@
-# Luana
+# Lua ☾
 <p align="center"><b> ᔕ Sobre mim ᔓ </b></p>
 
 <p align="left">
